@@ -50,8 +50,6 @@ Furthermore, a **Random Forest Classifier** was developed using a Scikit-Learn m
 
 ```text
 ├── JuttuAbhiram_Ecommerce_Customer_Segmentation.ipynb   # Complete Jupyter Notebook code
-├── JuttuAbhiram_ProjectName.ipynb                      # Code File submission alias
-├── JuttuAbhiram_ProjectReport.docx                     # Complete Project Documentation (.docx)
 ├── JuttuAbhiram_Ecommerce_Customer_Segmentation_ProjectReport.docx # Named report copy
 ├── requirements.txt                                    # Python dependencies & libraries list
 ├── README.md                                           # Project overview & documentation
