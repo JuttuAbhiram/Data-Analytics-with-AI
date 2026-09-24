@@ -54,15 +54,7 @@ Furthermore, a **Random Forest Classifier** was developed using a Scikit-Learn m
 ├── requirements.txt                                    # Python dependencies & libraries list
 ├── README.md                                           # Project overview & documentation
 ├── E-commerce_Customer_Segmentation_2026.csv           # E-commerce customer dataset
-└── images/                                             # Exported high-resolution visualization charts
-    ├── customer_segments_distribution.png
-    ├── avg_revenue_by_segment.png
-    ├── revenue_by_shopping_channel.png
-    ├── revenue_by_product_category.png
-    ├── satisfaction_vs_spending.png
-    ├── confusion_matrix_heatmap.png
-    └── feature_importance.png
-```
+
 
 ---
 
@@ -70,8 +62,8 @@ Furthermore, a **Random Forest Classifier** was developed using a Scikit-Learn m
 
 1. **Clone or Download the Repository:**
    ```bash
-   git clone https://github.com/JuttuAbhiram/e_commerce_customer_segment_analysis.git
-   cd e_commerce_customer_segment_analysis
+   git clone https://github.com/JuttuAbhiram/JuttuAbhiram_Ecommerce_Customer_Segmentation.ipynb.git
+   cd JuttuAbhiram_Ecommerce_Customer_Segmentation.ipynb
    ```
 
 2. **Create and Activate a Virtual Environment (Recommended):**
